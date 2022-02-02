@@ -15,3 +15,7 @@ As stated above, the main purpsoe is to provide sample examples for Git training
 This is a simple web project, deployment can be on any web server or even local file system
 
 ## How To Contribute
+
+### Copyright
+
+2022 Git.Training.
